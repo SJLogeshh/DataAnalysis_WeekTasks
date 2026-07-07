@@ -1,0 +1,11 @@
+ID,Name,Age,Department,Salary,JoiningDate,PerformanceScore
+1,Logesh,24,IT,35000,2023-07-01,85
+2,Priya,27,HR,40000,2022-03-15,90
+3,Arun,22,Finance,30000,2024-01-10,NaN
+4,Meena,29,IT,,2021-11-20,88
+5,Karthik,26,Marketing,38000,2023-05-05,76
+6,Divya,31,Finance,45000,2020-09-12,NaN
+7,Raj,28,IT,42000,2022-12-01,92
+8,Anitha,25,HR,NaN,2023-02-18,80
+9,Vijay,30,Marketing,50000,2021-06-25,95
+10,Sneha,23,Finance,32000,2024-04-01,70
